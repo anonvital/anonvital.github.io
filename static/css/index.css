@@ -155,3 +155,25 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.full-width-media {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.half-width-media {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.tq-width-media {
+  width: 75%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
